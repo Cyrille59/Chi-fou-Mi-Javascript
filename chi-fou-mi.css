@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(#007bff, white, #007bff);
+}
+
+
+h1{
+    padding-top: 1%;
+}
+
+h2{
+    padding-top: 3%;
+}
+
+section{
+    text-align: center;
+}
+
+div{
+
+    padding-bottom: 4%;
+}
+
+span{
+    border: black solid 2px;
+    font-size: 40px;
+}
+
+#scorordi, #scorvous{
+    border: black solid 2px;
+    font-size: 30px;
+}
+
+#pierre{
+    border: black solid 2px;
+    width: 200px;
+}
+
+#feuille{
+    border: black solid 2px;
+    width: 200px;
+}
+
+#ciseaux{
+    border: black solid 2px;
+    width: 200px;
+}
+
+#ordi{
+    border: black solid 2px;
+    width: 200px;
+}
